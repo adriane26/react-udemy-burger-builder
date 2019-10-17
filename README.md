@@ -1,3 +1,5 @@
+Tutorial app from Udemy's React: The Complete Guide. Disclaimer: I have not followed all the styles from the video and I've also added lots of console.logs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
