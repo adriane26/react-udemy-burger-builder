@@ -1,0 +1,16 @@
+.Order {
+    width: 40%;
+    border: 1px solid green;
+    box-shadow: 0 2px 12px skyblue;
+    padding: 10px;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+.ingredients {
+    text-transform: capitalize;
+    margin: 0 8px;
+    padding: 6px;
+    display: inline-block; 
+    border: 1px solid limegreen;
+}

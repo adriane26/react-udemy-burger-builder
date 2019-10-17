@@ -1,0 +1,25 @@
+.ContactInfo {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    box-shadow: 0 10px 8px #ccc;
+    border: 2px solid hotpink;
+    box-sizing: border-box;
+    
+}
+
+.ContactInfo input {
+    margin: 8px;
+    display: block;
+}
+
+.ContactInfo button {
+    display: inline-block;
+    padding: 4px;
+}
+
+@media (min-width: 600px) {
+    .ContactInfo {
+        width: 500px;
+    }
+}
